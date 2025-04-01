@@ -1,5 +1,5 @@
-## Hi there 👋 We are the Swift Lion created for the Capstone Project.
-# We develop a delivery robot solution using go2 robot.
+# Hi there 👋 We are the Swift Lion created for the Capstone Project.
+## We develop a delivery robot solution using go2 robot.
 
 
 ![ChatGPT Image 2025년 4월 1일 오후 03_51_24](https://github.com/user-attachments/assets/a80c75e0-27cc-4d07-8f34-59710bd14a44)
